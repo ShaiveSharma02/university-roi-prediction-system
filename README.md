@@ -124,5 +124,3 @@ Predicted ROI values should not be considered real-world financial advice.
 ## 👨‍💻 Author
 
 Shaive Sharma
-
-GitHub: https://github.com/ShaiveSharma02
